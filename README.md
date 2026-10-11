@@ -8,4 +8,4 @@ AI/ML graduate from the University of Adelaide, based in Adelaide, Australia.
 - 🎯 Looking for graduate/junior roles in ML engineering, AI engineering and data science
 - 🏸 Outside of code: badminton and the gym
 
-📫 LinkedIn: [add your link]
+📫 LinkedIn: www.linkedin.com/in/rohansaikosuri
